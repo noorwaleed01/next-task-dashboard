@@ -1,0 +1,98 @@
+.save {
+    border: 1px solid black;
+    background-color: black;
+    width: 60px;
+    color: white;
+    border-radius: 8px;
+    padding: 5px 10px;
+    margin-right: 15px;
+
+
+}
+
+.cancel {
+    border: 1px solid black;
+    background-color: rgb(255, 255, 255);
+    
+    color: rgb(0, 0, 0);
+    border-radius: 8px;
+    padding: 5px 10px;
+
+}
+
+.topmodal {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap:5px;
+}
+
+.x {
+    
+    border: 1px rgb(228, 7, 7) solid;
+    background-color: rgb(223, 0, 0);
+    color:white;
+    width: 40px;
+    border-radius: 8px;
+    height: 20px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+
+
+
+
+.inputtitle {
+    margin-bottom: 15px;
+}
+
+
+.save {
+    border: 1px solid black;
+    background-color: black;
+    width: 60px;
+    color: white;
+    border-radius: 8px;
+    padding: 5px 10px;
+    margin-right: 15px;
+
+
+}
+
+.cancel {
+    border: 1px solid black;
+    background-color: rgb(255, 255, 255);
+    
+    color: rgb(0, 0, 0);
+    border-radius: 8px;
+    padding: 5px 10px;
+
+}
+
+.topmodal {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap:5px;
+}
+
+
+.input input {
+ 
+    border: 1px solid;
+    width: 100%;
+    height: 20px;
+    border-radius: 8px;
+    padding: 5px 4px;
+}
+
+.input p {
+    margin-bottom: 3px;
+    font-size: 12px;
+}
+
+input.des {
+    height: 50px;
+    margin-bottom: 15px;
+}
